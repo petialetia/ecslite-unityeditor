@@ -1,5 +1,6 @@
-﻿namespace #NS# {
-    struct #SCRIPTNAME# {
-        // add your data here.
+﻿namespace #NS#
+{
+    struct #SCRIPTNAME#
+    {
     }
 }

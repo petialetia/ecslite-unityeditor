@@ -1,9 +1,11 @@
 ﻿using Leopotam.EcsLite;
 
-namespace #NS# {
-    sealed class #SCRIPTNAME# : IEcsRunSystem {        
-        public void Run (IEcsSystems systems) {
-            // add your run code here.
+namespace #NS#
+{
+    sealed class #SCRIPTNAME# : IEcsRunSystem
+    {        
+        public void Run(IEcsSystems systems)
+        {
         }
     }
 }
